@@ -1,2 +1,2 @@
-# NewRepoForCoursera2
+# NewRepoForCoursera
 First Repo for Coursera Course
